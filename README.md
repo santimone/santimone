@@ -1,9 +1,9 @@
 Hi there, I'm Santiago 👋
 
-About Me
-🔭 I’m currently working on Casino Club SA
-🌱 I’m currently learning Node, express and Backend development
-📫 How to reach me: santiagomonedero122@gmail.com
+About Me /n
+🔭 I’m currently working on Casino Club SA /n
+🌱 I’m currently learning Node, express and Backend development /n
+📫 How to reach me: santiagomonedero122@gmail.com /n
 
 
 Languages and Tools
