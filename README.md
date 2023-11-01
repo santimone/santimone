@@ -63,6 +63,9 @@ hobbies: ["Gaming", "Cinema", "Cofee", "Books"]
 <h3 align="left">  
 📈 &nbsp;My GitHub History!
 </h3>
-![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santimone&show_icons=true)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cck131s2ui8nkdgh82c9rs95i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
