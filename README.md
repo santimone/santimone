@@ -14,10 +14,10 @@ You can find me over here to have a chat
  </a>
 </p>
 
-<h2 align="center">  
+<h3 align="left">  
 👨‍💻A little bit about me
-</h2>
-```yaml
+</h3>
+```YAML
 name: Santiago Monedero
 located_in: Buenos Aires, Argentina
 current_job: Mobile developer
