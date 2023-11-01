@@ -15,8 +15,9 @@ You can find me over here to have a chat
 </p>
 
 <h3 align="left">  
-👨‍💻A little bit about me
+👨🏻‍💻 A little bit about me
 </h3>
+
 ```yaml
 name: Santiago Monedero
 located_in: Buenos Aires, Argentina
