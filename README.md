@@ -1,9 +1,9 @@
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there%20I'm%20Santiago!&fontSize=70" />
 </p>
-<h4 align="center">  
+<h2 align="center">  
 You can find me over here!
-</h4>
+</h2>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="40"/>
