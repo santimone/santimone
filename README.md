@@ -49,6 +49,7 @@ hobbies: ["Gaming", "Cinema", "Cofee", "Books"]
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+ <img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" alt="typescript" width="45" height="45"/>   
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
  <img src="https://thejavascriptshop.com/_next/image/?url=%2Fimages%2Freact-native.png&w=1920&q=75" alt="react native" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
@@ -58,6 +59,8 @@ hobbies: ["Gaming", "Cinema", "Cofee", "Books"]
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+ <img src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" alt="c++" width="45" height="45"/>   
+ <img src="https://pics.freeicons.io/uploads/icons/png/20395100751536130227-512.png" alt="c" width="45" height="45"/>   
 </p>
 
 <h3 align="left">  
