@@ -14,4 +14,31 @@ You can find me over here to have a chat
  </a>
 </p>
 
+<h2 align="center">  
+👨‍💻A little bit about me
+</h2>
+```yaml
+name: Santiago Monedero
+located_in: Buenos Aires, Argentina
+current_job: Mobile developer
+company: Casino Club S.A.
+
+education: 
+[
+"Developer analyst in Universidad abierta interamericana",
+"Web development and javascript course on CoderHouse",
+"React native course on Udemy",
+]
+
+fields_of_interests:
+[
+"Web development",
+"Mobile development"
+"UI/UX",
+"Backend development in Javascript or Python"
+]
+
+hobbies: ["Gaming", "Cinema", "Cofee", "Books"]
+```
+
 
