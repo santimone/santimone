@@ -4,7 +4,7 @@
 You can find me over here!
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/react.svg](https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" alt="Linkedin" height="40"/>
+  <img src="[https://cdn.worldvectorlogo.com/logos/react.svg](https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png](https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png)" alt="Linkedin" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-firebase-1.svg" alt="React Native" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML5" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3" height="40"/>
