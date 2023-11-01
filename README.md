@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<h6 align="center">  
+<h4 align="center">  
 You can find me over here!
-</h6>
+</h4>
 
 <p align="center">
   <img src="[https://cdn.worldvectorlogo.com/logos/react.svg](https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png](https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png)" alt="Linkedin" height="40"/>
