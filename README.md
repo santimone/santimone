@@ -17,7 +17,7 @@ You can find me over here to have a chat
 <h3 align="left">  
 👨‍💻A little bit about me
 </h3>
-```
+```yaml
 name: Santiago Monedero
 located_in: Buenos Aires, Argentina
 current_job: Mobile developer
@@ -33,7 +33,7 @@ education:
 fields_of_interests:
 [
 "Web development",
-"Mobile development"
+"Mobile development",
 "UI/UX",
 "Backend development in Javascript or Python"
 ]
